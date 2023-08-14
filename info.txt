@@ -1,0 +1,17 @@
+Title : RAPIDEUO FOODS
+
+Tag Line : FAST FOODS 24/7
+
+ABOUT : We are a fast food brand with A huge network of Restaurants all over Pakistan. Our Aim is to make Fast Food available at you door step as a rapid splice. The food we serve is combination of great recipies, master chefs and a slight touch of love that makes our brand stand all over the country for it's taste and heritage. We are looking forward to take RAPIDEUO FOODS out of Paksitan  and spread it all over the world making it a world wide brand. 
+Visit us to our nearby restaurant or order online now to get fast food repidly at your door step.
+
+This Website will contain the following sections which will contain following pages
+1 : Home 
+2 : Hero 
+3 : Footer
+
+1 : header - Nav Bar - Slider Images - Call to Actions  
+2 : About Us 
+3 : Our Menu - Top Foods 
+4 : Customer Reviews 
+5 : Contact Page - Book a reservation - phone number Email - Contact forms
